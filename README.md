@@ -1,7 +1,7 @@
  
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Eai, Bora Codar....<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luizfe-nando&color=blue" alt="Profile views"/> </p>
-<img align="right" width="350px" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Eai, Bora Codar....
+<img align="right" width="350px" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" /><p align="left"> <img src="https://komarev.com/ghpvc/?username=Luizfe-nando&color=blue" alt="Profile views"/> </p>
 <p align="left">Então mãos a o mouse ...</p>
 </h1>
 <p>Bem vindo ao meu GitHub! 💬 </p>
