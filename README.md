@@ -27,7 +27,7 @@ Amante de <b>Series, Animes</b> e <b>mangas</b> 🔥
 <b>NUBBE total em jogos, possivel eu perder até para um both !</b>
 <p align="left">  
     <img width="30%" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrgJs3lbQFGkTCRcyfrDP_Wewq8IYNpCkYA&usqp=CAU" alt="xbox">
-    <img width="30%"  height="125"src="https://w0.peakpx.com/wallpaper/946/886/HD-wallpaper-xbox-green.jpg" alt="xbox"> 
+    <img width="30%"  height="125" src="https://w0.peakpx.com/wallpaper/946/886/HD-wallpaper-xbox-green.jpg" alt="xbox"> 
     <img width="30%"   height="125" src="https://w0.peakpx.com/wallpaper/761/494/HD-wallpaper-playstation-5-ps5-sony.jpg"><br>
 <hr>
 <h3>Contate-me:</h3>
