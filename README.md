@@ -24,13 +24,15 @@ E pelo <b>IFES</b> como <b>Desenvolvedor Fullstack</b>.<br>
 
 ------------------------
 
-</ul>
+
 Mais sobre mim:<br>
-Amante de <b>Series, Animes</b> e <b>mangas</b> 🔥
-<img alt="anime" src="https://media.tenor.com/msOOfJ3ZN84AAAAd/asta-demon.gif" width="" height="230" /> 
+Amante de <b>Series, Animes</b> e <b>mangas</b> 🔥<br>
+<div align="center">
+<img alt="anime" src="https://media.tenor.com/msOOfJ3ZN84AAAAd/asta-demon.gif" width="80%" height="230" />
+</div>
 
 <b>NUBBE total em jogos, possivel eu perder até para um both !</b>
-<p align="left">  
+<p align="center">  
     <img width="30%" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrgJs3lbQFGkTCRcyfrDP_Wewq8IYNpCkYA&usqp=CAU" alt="xbox">
     <img width="30%"  height="125"src="https://w0.peakpx.com/wallpaper/946/886/HD-wallpaper-xbox-green.jpg" alt="xbox"> 
     <img width="30%"   height="125" src="https://w0.peakpx.com/wallpaper/761/494/HD-wallpaper-playstation-5-ps5-sony.jpg"><br>
@@ -41,4 +43,5 @@ Amante de <b>Series, Animes</b> e <b>mangas</b> 🔥
 <a href="https://discord.gg/luizfe-nando#5909" target="blank"><img align="top" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord"  width="40" /></a><a  href="mailto:luizfernandomoreirapinto@gmail.com" alt="Gmail" target="_blank" rel="noopener noreferrer">
 <img height="30" src="https://iconape.com/wp-content/files/rr/353408/png/google-gmail-logo.png" /></a>
 <img align="top" src="https://t4.ftcdn.net/jpg/05/43/40/85/360_F_543408542_xIYArPR28ntF1DjwpU6XQanP23OIMhow.jpg" alt="whatsapp" height="30" width="40" /></a>
+
 </p>
