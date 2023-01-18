@@ -26,7 +26,7 @@ E pelo <b>IFES</b> como <b>Desenvolvedor Fullstack</b>.<br>
 Mais sobre mim:<br>
 Amante de <b>Series, Animes</b> e <b>mangas</b> 🔥<br>
 
-<img alt="anime" src="https://media.tenor.com/msOOfJ3ZN84AAAAd/asta-demon.gif" width="80%" height="230" />
+<img alt="anime" src="https://i.makeagif.com/media/11-01-2017/2eAMcV.mp4" width="80%" height="230" />
 
 
 <b>NUBBE total em jogos, possivel eu perder até para um both !</b>
