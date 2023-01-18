@@ -52,8 +52,11 @@ class Skills extends Desenvolvedor {
 
 
 <hr>
-
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luizfe-nando&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=00BFFF&bg_color=0d1117" alt="Git Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfe-nando&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
+</div>
+<hr>
     
 <div class="center">
  <h2> <b>Mais sobre mim:</b> </h2>   
