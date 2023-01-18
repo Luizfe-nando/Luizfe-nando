@@ -1,5 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Luizfe-nando&color=blue" alt="Profile views"/> </p>
-<h1> Seja Bem vindo ao meu GitHub ! 💬</h1> <p>Me chamo Luiz Fernando, prazer te-lo aqui.</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Luizfe-nando&color=blue" alt="Profile views"/> </p><h1> Seja Bem vindo ao meu GitHub ! 💬</h1> <p>Me chamo Luiz Fernando, é um prazer te-lo aqui.</p>
+
 
 ```js
 import Desenvolvedor from 'Luizfe-nando';
@@ -20,7 +20,7 @@ class Skills extends Desenvolvedor {
 
 <div class="center">
 
-<img align="right" width="450px" height="450" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
+<img align="right" width="450px" height="400" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
 <ul>
 <li>Colaboração com Desenvolvedores</li>
 <li>Segurança da informação</li>
@@ -63,24 +63,34 @@ class Skills extends Desenvolvedor {
 <img align="center" alt="anime" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/anime-one-piece.jpg" width="47%" height="230" />
     </div>
 </div>
-    
-<h2 align="center"> <b>NUBBE total em jogos, possivel eu perder até para um both !</b> </h2>
+ <div class="container">   
+<h2 align="center"> <b>NUBBE assumido, possivel eu perder até para um both !</b> </h2>
     <p align="center"> <b>Mas Desistir nao faz parte da minha NATUREZA</b> </p>
 <p align="center">  
     <img width="30%" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrgJs3lbQFGkTCRcyfrDP_Wewq8IYNpCkYA&usqp=CAU" alt="xbox">
-    <img width="30%"  height="125"src="https://w0.peakpx.com/wallpaper/946/886/HD-wallpaper-xbox-green.jpg" alt="xbox"> 
-    <img width="30%"   height="125" src="https://w0.peakpx.com/wallpaper/761/494/HD-wallpaper-playstation-5-ps5-sony.jpg"></p><br>
+    <img width="30%"  height="125"src="https://assets.xboxservices.com/assets/5c/55/5c554715-fac4-4c09-8006-d8e62d355157.jpg?n=Xbox_Sharing_Xbox-2019-White-on-Green_200x200.jpg" alt="xbox"> 
+    <img width="30%"   height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YVK0qXQNfwyOEzZHLtAmSjsdGTRsMwKFVy6zTT33kYfyZ6_Rpwu01_zV0wecm5iHlHQ&usqp=CAU" alt="playstation"></p>
+  </div>
+  <br>
 <hr>
- <div class="align=center">
-  <h2 align="center">Jogador de Xadrez e Truco</h2>
-    <p align="center"> <b>Horas vagas </b> </p>
+ <div class="">
+  <h2 align="center">Pratico Esportes, Treinos e Lutas</h2>
+   
 <p align="center">  
-    <img width="47%" height="150" src="https://s2.glbimg.com/HBznHEDGMp1mjhNlZo7pbZjtzqs=/0x0:1732x1732/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2022/H/d/7TRCHPTku3Un6B7IIuNA/2020-10-07-xadrez-wired.jpeg" alt="xbox">
-    <img width="47%"  height="150"src="https://img.elo7.com.br/product/original/3304479/quadro-decorativo-jogos-cartas-baralho-decoracoes-quadro-de-naipes.jpg" alt="xbox">
+    <img width="30%" height="125" src="https://monteazulpaulista.sp.gov.br/novosite/wp-content/uploads/2019/09/esporte-e-lazer-1-1500x650.png" alt="Esporte">
+    <img width="30%"  height="125"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRqBK0LQjw6whQKVlm3JRPmHkPVQLbAKI7zxhmSwopOCuVsDoC_ktWeW05ogkPfuM6wQ&usqp=CAU" alt="Academia"> 
+    <img width="30%"   height="125" src="https://www.eurekaeva.com.br/wp-content/uploads/2016/02/diferenca-luta-artes-marciais.jpg" alt="lutas"></p>
+ <br>
+    <hr>
+   <div class="">
+  <h2 align="center">Jogador de Xadrez e Truco</h2>
+   <p align="center">  
+    <img width="47%" height="200" src="https://s2.glbimg.com/HBznHEDGMp1mjhNlZo7pbZjtzqs=/0x0:1732x1732/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2022/H/d/7TRCHPTku3Un6B7IIuNA/2020-10-07-xadrez-wired.jpeg" alt="xbox">
+    <img width="47%"  height="200"src="https://img.elo7.com.br/product/original/3304479/quadro-decorativo-jogos-cartas-baralho-decoracoes-quadro-de-naipes.jpg" alt="xbox">
    </p>
  <br>
     <hr>
-<h3 align="center">Contate-me:</h3>
+<h3>Contate-me:</h3>
 <p align="center"><a href="https://github.com/luizfe-nando" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/luiz-fernando-moreira-pinto-403622239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.gg/luizfe-nando#5909" target="blank"><img align="top" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord"  width="40" /></a><a  href="mailto:luizfernandomoreirapinto@gmail.com" alt="Gmail" target="_blank" rel="noopener noreferrer">
