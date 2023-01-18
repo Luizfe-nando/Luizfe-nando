@@ -99,6 +99,8 @@ class Skills extends Desenvolvedor {
 <a href="https://discord.gg/luizfe-nando#5909" target="blank"><img align="top" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord"  width="40" /></a><a  href="mailto:luizfernandomoreirapinto@gmail.com" alt="Gmail" target="_blank" rel="noopener noreferrer">
 <img height="30" src="https://iconape.com/wp-content/files/rr/353408/png/google-gmail-logo.png" /></a>
 <img align="top" src="https://t4.ftcdn.net/jpg/05/43/40/85/360_F_543408542_xIYArPR28ntF1DjwpU6XQanP23OIMhow.jpg" alt="whatsapp" height="30" width="40" /></a>
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 </p>
+ 
