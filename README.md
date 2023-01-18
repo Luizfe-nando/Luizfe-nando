@@ -1,7 +1,7 @@
 <div class="center">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Eai, Bora Codar....<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luizfe-nando&color=blue" alt="Profile views"/> </p>
+<h1>Eai, Bora Codar....<p align="right"> <img src="https://komarev.com/ghpvc/?username=Luizfe-nando&color=blue" alt="Profile views"/> </p>
 <img align="right" width="350px" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
-<p align="left">Então mãos a o mouse ...</p>
+<p align="left">Então mãos a o mouse ... <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></p>
 </h1>
 <p>Bem vindo ao meu GitHub! 💬 </p>
 Me chamo <b>Luiz Fernando</b>, sou estudante na <b>FMU</b> Bacharelado em <b>Sistemas da Informação</b>.<br>E pelo <b>IFSMG</b> Tecnico <b>Sistemas para Internet</b>.<br>
@@ -22,10 +22,11 @@ E pelo <b>IFES</b> como <b>Desenvolvedor Fullstack</b>.<br>
 
 <hr>
 
-    <h2> <b>Mais sobre mim:</b> </h2>   
-    <h2> <b>Amante de Series, Animes e Mangas !</b> </h2> 🔥<br>
+
     
 <div class="container">
+    <h2> <b>Mais sobre mim:</b> </h2>   
+<h3> Amante de Series, Animes e Mangas ! 🔥</h3> <br>
     <div class="box flex-box">
 <img alt="anime" src="https://tm.ibxk.com.br/2021/03/31/31125812016202.jpg" width="47%" height="230" />
 <img alt="anime" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/anime-one-piece.jpg" width="47%" height="230" />
