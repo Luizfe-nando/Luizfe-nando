@@ -22,9 +22,9 @@ E pelo <b>IFES</b> como <b>Desenvolvedor Fullstack</b>.<br>
 
 <hr>
 
-
-    <h2>Mais sobre mim:</h2><br>
-    <h3>Amante de <b>Series, Animes</b> e <b>mangas</b></h3> 🔥<br>
+    <h2> <b>Mais sobre mim:</b> </h2>   
+    <h2> <b>Amante de Series, Animes e Mangas !</b> </h2> 🔥<br>
+    
 <div class="container">
     <div class="box flex-box">
 <img alt="anime" src="https://tm.ibxk.com.br/2021/03/31/31125812016202.jpg" width="47%" height="230" />
