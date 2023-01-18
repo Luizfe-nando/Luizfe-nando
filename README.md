@@ -20,7 +20,7 @@ class Skills extends Desenvolvedor {
 
 <div class="center">
 
-<img align="right" width="600px" height="450" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
+<img align="right" width="450px" height="450" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
 <ul>
 <li>Colaboração com Desenvolvedores</li>
 <li>Segurança da informação</li>
