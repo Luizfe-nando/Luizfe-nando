@@ -20,15 +20,18 @@ class Skills extends Desenvolvedor {
 
 <div class="center">
 
-<img align="right" width="450px" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
+<img align="right" width="600px" height="450" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif" />
 <ul>
 <li>Colaboração com Desenvolvedores</li>
 <li>Segurança da informação</li>
 <li>Metodologia Agil</li>
-<li>Designer UI / UX</li>
-<li>Redes de Computadores e Tecnologia</li>
+<li>Designer UX</li>
+<li>JQuery</li>
+<li>Sass</li>
+<li>Linux</li>  
 <li>JSON</li>
 <li>API Rest</li>
+<li>Redes de Computadores e Tecnologia</li>
 <li>Montagem e Manutenção Hardwares e softwares</li>
 </ul>
 
@@ -52,27 +55,37 @@ class Skills extends Desenvolvedor {
 
 
     
-<div class="container">
-    <h2> <b>Mais sobre mim:</b> </h2>   
-<h3> Amante de Series, Animes e Mangas ! 🔥</h3> <br>
+<div class="center">
+ <h2> <b>Mais sobre mim:</b> </h2>   
+<h3 align="center"> Amante de Series, Animes e Mangas ! 🔥</h3> <br>
     <div class="box flex-box">
-<img alt="anime" src="https://tm.ibxk.com.br/2021/03/31/31125812016202.jpg" width="47%" height="230" />
-<img alt="anime" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/anime-one-piece.jpg" width="47%" height="230" />
+<img align="center" alt="anime" src="https://tm.ibxk.com.br/2021/03/31/31125812016202.jpg" width="47%" height="230" />
+<img align="center" alt="anime" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/anime-one-piece.jpg" width="47%" height="230" />
     </div>
 </div>
     
-<h2> <b>NUBBE total em jogos, possivel eu perder até para um both !</b> </h2>
-    <spam> <b>Mas Desistir nao faz parte da minha NATUREZA</b> </spam>
+<h2 align="center"> <b>NUBBE total em jogos, possivel eu perder até para um both !</b> </h2>
+    <p align="center"> <b>Mas Desistir nao faz parte da minha NATUREZA</b> </p>
 <p align="center">  
     <img width="30%" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrgJs3lbQFGkTCRcyfrDP_Wewq8IYNpCkYA&usqp=CAU" alt="xbox">
     <img width="30%"  height="125"src="https://w0.peakpx.com/wallpaper/946/886/HD-wallpaper-xbox-green.jpg" alt="xbox"> 
-    <img width="30%"   height="125" src="https://w0.peakpx.com/wallpaper/761/494/HD-wallpaper-playstation-5-ps5-sony.jpg"><br>
+    <img width="30%"   height="125" src="https://w0.peakpx.com/wallpaper/761/494/HD-wallpaper-playstation-5-ps5-sony.jpg"></p><br>
 <hr>
-<h3>Contate-me:</h3>
-<p><a href="https://github.com/luizfe-nando" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+ <div class="align=center">
+  <h2 align="center">Jogador de Xadrez e Truco</h2>
+    <p align="center"> <b>Horas vagas </b> </p>
+<p align="center">  
+    <img width="47%" height="150" src="https://s2.glbimg.com/HBznHEDGMp1mjhNlZo7pbZjtzqs=/0x0:1732x1732/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2022/H/d/7TRCHPTku3Un6B7IIuNA/2020-10-07-xadrez-wired.jpeg" alt="xbox">
+    <img width="47%"  height="150"src="https://img.elo7.com.br/product/original/3304479/quadro-decorativo-jogos-cartas-baralho-decoracoes-quadro-de-naipes.jpg" alt="xbox">
+   </p>
+ <br>
+    <hr>
+<h3 align="center">Contate-me:</h3>
+<p align="center"><a href="https://github.com/luizfe-nando" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/luiz-fernando-moreira-pinto-403622239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.gg/luizfe-nando#5909" target="blank"><img align="top" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord"  width="40" /></a><a  href="mailto:luizfernandomoreirapinto@gmail.com" alt="Gmail" target="_blank" rel="noopener noreferrer">
 <img height="30" src="https://iconape.com/wp-content/files/rr/353408/png/google-gmail-logo.png" /></a>
 <img align="top" src="https://t4.ftcdn.net/jpg/05/43/40/85/360_F_543408542_xIYArPR28ntF1DjwpU6XQanP23OIMhow.jpg" alt="whatsapp" height="30" width="40" /></a>
 </div>
+  
 </p>
