@@ -25,10 +25,12 @@ E pelo <b>IFES</b> como <b>Desenvolvedor Fullstack</b>.<br>
 
 Mais sobre mim:<br>
 Amante de <b>Series, Animes</b> e <b>mangas</b> 🔥<br>
-
-<img alt="anime" src="https://tm.ibxk.com.br/2021/03/31/31125812016202.jpg" width="50%" height="230" />
-<img alt="anime" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/anime-one-piece.jpg" width="50%" height="230" />
-
+<div class="container">
+    <div class="box flex-box">
+<img alt="anime" src="https://tm.ibxk.com.br/2021/03/31/31125812016202.jpg" width="47%" height="230" />
+<img alt="anime" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/anime-one-piece.jpg" width="47%" height="230" />
+    </div>
+     </div>
 <b>NUBBE total em jogos, possivel eu perder até para um both !</b>
 <p align="center">  
     <img width="30%" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrgJs3lbQFGkTCRcyfrDP_Wewq8IYNpCkYA&usqp=CAU" alt="xbox">
