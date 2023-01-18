@@ -20,7 +20,7 @@ E pelo <b>IFES</b> como <b>Desenvolvedor Fullstack</b>.<br>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
-------------------------
+<hr>
 
 
     <h2>Mais sobre mim:</h2><br>
@@ -30,9 +30,10 @@ E pelo <b>IFES</b> como <b>Desenvolvedor Fullstack</b>.<br>
 <img alt="anime" src="https://tm.ibxk.com.br/2021/03/31/31125812016202.jpg" width="47%" height="230" />
 <img alt="anime" src="https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/anime-one-piece.jpg" width="47%" height="230" />
     </div>
-     </div>
-<h2><b>NUBBE total em jogos, possivel eu perder até para um both !</b></h2>
-    <spam><b>Mas Desistir nao faz parte da minha NATUREZA</b></spam>
+</div>
+    
+<h2> <b>NUBBE total em jogos, possivel eu perder até para um both !</b> </h2>
+    <spam> <b>Mas Desistir nao faz parte da minha NATUREZA</b> </spam>
 <p align="center">  
     <img width="30%" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrgJs3lbQFGkTCRcyfrDP_Wewq8IYNpCkYA&usqp=CAU" alt="xbox">
     <img width="30%"  height="125"src="https://w0.peakpx.com/wallpaper/946/886/HD-wallpaper-xbox-green.jpg" alt="xbox"> 
